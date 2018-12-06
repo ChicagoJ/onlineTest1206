@@ -1,0 +1,33 @@
+@hundredPercent: 100%;
+@fiftyPercent: 50%;
+@margin-zero: 0px;
+@postion-relative: relative;
+@float-left: left;
+@first-color: red;
+@second-color: yellow;
+@third-color: blue;
+@forth-color: green;
+html,
+body {
+  height: @hundredPercent;
+  width: @hundredPercent;
+  margin: @margin-zero;
+}
+article {
+  position: @postion-relative;
+  float: @float-left;
+  height: @fiftyPercent;
+  width: @fiftyPercent;
+}
+article:nth-child(1) {
+  background: @first-color;
+}
+article:nth-child(2) {
+  background: @second-color;
+}
+article:nth-child(3) {
+  background: @third-color;
+}
+article:nth-child(4) {
+  background: @forth-color;
+}
