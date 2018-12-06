@@ -2,7 +2,7 @@
 
 ## Question 1
 
-the first question
+the first question, in the folder `lessSandBox`
 there are three files,
 
 - index.html
@@ -20,6 +20,7 @@ To position the div, using `float:left` and make each div take the half width of
 
 ## Question 2
 
+In the folder `Carousel`
 What I have done for Q2 is ,to fetch data from JSON file and display each content in one div box with something like
 
 ```
