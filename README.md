@@ -31,4 +31,6 @@ What I have done for Q2 is ,to fetch data from JSON file and display each conten
 ============
 ```
 
-what i need to do next is to make a Carousel and put the div content into it.
+Using the example carousel code from W3cSchool the open source, and dispay the date in each carousel.
+
+next step, adjust the css style to make the project looks good.
